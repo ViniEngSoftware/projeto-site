@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+main{
+    background-color: white;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+body{
+    background-color: blue;
+}
