@@ -4,4 +4,7 @@
     box-sizing: border-box;    
 }
 
-
+header.cab {
+    width: 100%;
+    height: 150px;
+}
